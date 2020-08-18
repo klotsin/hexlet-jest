@@ -1,3 +1,5 @@
+# hexlet-jest
+
 ## Setup
 
 ```sh
